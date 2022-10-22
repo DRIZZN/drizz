@@ -1,8 +1,8 @@
 /**
    * Create By Drizz Ardnt.
    * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Contact Me on wa.me/6283169170104
+   * Follow https://github.com/Drizzn
 */
 
 const fs = require('fs')

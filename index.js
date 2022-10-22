@@ -2,7 +2,7 @@
    * Create By Driznn Ardnt.
    * Recode By Naze Dev
    * Contact Me on wa.me/6283169170104
-   * Follow https://github.com/nazedev
+   * Follow https://github.com/Drizzn
 */
 
 require('./config')
